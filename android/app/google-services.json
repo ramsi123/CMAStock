@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "1041673071982",
+    "project_id": "cahaya-mulya-abadi",
+    "storage_bucket": "cahaya-mulya-abadi.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1041673071982:android:33faf5b22407cf79bf657f",
+        "android_client_info": {
+          "package_name": "com.example.cahaya_mulya_abadi"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBRQU63r4T3QK4IOLANffH4aYBC5TKVoOk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

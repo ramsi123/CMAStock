@@ -1,0 +1,74 @@
+{
+    "Users": {
+        "uid": "string",
+        "name": "string",
+        "email": "string",
+        "role": "string",
+        "imageId": "string",
+        "imageUrl": "string",
+        "notification": "boolean",
+        "stockAlertAmount": "string",
+        "stockAlertUnit": "string"
+    },
+    "bahan_baku": {
+        "materialId": "string",
+        "namaBarang": "string",
+        "deskripsiBarang": "string",
+        "jumlahBarang": "string",
+        "unit": "string",
+        "imageId": "string",
+        "imageUrl": "string",
+        "timestamp": "timestamp"
+    },
+    "laporan": {
+        "status": "string",
+        "note": "string",
+        "jumlah": "string",
+        "sisa": "string",
+        "timestamp": "timestamp"
+    },
+    "barang_produksi": {
+        "productId": "string",
+        "namaBarang": "string",
+        "deskripsiBarang": "string",
+        "jumlahBarang": "string",
+        "materialName": "array of strings",
+        "materialQuantity": "array of strings",
+        "materialUnit": "array of strings",
+        "imageId": "string",
+        "imageUrl": "string",
+        "timestamp": "timestamp"
+    },
+    "pesanan": {
+        "orderId": "string",
+        "customerName": "string",
+        "deskripsi": "string",
+        "orderItemName": "array of strings",
+        "orderItemQuantity": "array of strings",
+        "orderLeftovers": "string",
+        "status": "string",
+        "timestamp": "timestamp"
+    },
+    "outstanding": {
+        "product": "string",
+        "jumlah": "string",
+        "note": "string",
+        "timestamp": "timestamp"
+    },
+    "request_bahan_baku": {
+        "namaBarang": "string",
+        "deskripsiBarang": "string",
+        "jumlahBarang": "string",
+        "unit": "string",
+        "status": "string",
+        "timestamp": "timestamp"
+    },
+    "packaging": {
+        "docId": "string",
+        "productId": "string",
+        "namaBarang": "string",
+        "jumlahRequest": "string",
+        "status": "string",
+        "timestamp": "timestamp"
+    }
+}
