@@ -1,5 +1,5 @@
 # CMA Stock
-Warehouse Inventory Management Mobile Application for CV. Cahaya Mulya Abadi.
+Stock Inventory Management Mobile Application for CV. Cahaya Mulya Abadi.
 
 ## Tech Stack
 - Flutter
