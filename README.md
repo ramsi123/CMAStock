@@ -10,4 +10,4 @@ Warehouse Inventory Management Mobile Application for CV. Cahaya Mulya Abadi.
 - Flutter Background Service
 
 ## Screenshots of the Application
-<img src="https://imgur.com/a/WkdgQuN" height="25%" width="25%" alt="Sign In Screen"/> <img src="" height="25%" width="25%" alt="Dashboard Screen"/> <img src="" height="25%" width="25%" alt="Stock Screen"/> <img src="" height="25%" width="25%" alt="Product Screen"/> <img src="" height="25%" width="25%" alt="Order Screen"/> <img src="" height="25%" width="25%" alt="Profile Screen"/>
+<img src="https://i.imgur.com/BZNTuOM.png" height="25%" width="25%" alt="Sign In Screen"/> <img src="" height="25%" width="25%" alt="Dashboard Screen"/> <img src="" height="25%" width="25%" alt="Stock Screen"/> <img src="" height="25%" width="25%" alt="Product Screen"/> <img src="" height="25%" width="25%" alt="Order Screen"/> <img src="" height="25%" width="25%" alt="Profile Screen"/>
